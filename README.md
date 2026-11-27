@@ -274,17 +274,3 @@ git clone https://github.com/your-username/smart-road-safety-dashboard.git
 
 ---
 
-## 👤 Author
-
-<div align="center">
-
-**[DIVYESH SANDEEP KAMBLE]**
-
-
-⭐ *If you found this project useful, give it a star!* ⭐
-
-### 🚗 Road Pe Dhyan, Ghar Pe Muskaan! 😊
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:00ADFF,100:0B0F23&height=120&section=footer" width="100%" alt="Footer"/>
-
-</div>
