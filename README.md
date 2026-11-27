@@ -270,7 +270,4 @@ git clone https://github.com/your-username/smart-road-safety-dashboard.git
  ┣ 📂 images/      → dashboard screenshots
  ┗ 📜 README.md
 ```
-</details>
-
----
 
