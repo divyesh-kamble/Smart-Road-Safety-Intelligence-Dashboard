@@ -255,7 +255,7 @@ Closing page: *"Road Pe Dhyan, Ghar Pe Muskaan!"*
 git clone https://github.com/your-username/smart-road-safety-dashboard.git
 ```
 
-1. 📂 Open `Smart_Road_Safety_Intelligence_Dashboard_Final_Project.pbix` in **Power BI Desktop**
+1. 📂 Open `Smart Road Safety Intelligence Dashboard Final Project.pbix` in **Power BI Desktop**
 2. 🔗 If prompted, update the data source path: *Transform Data → Data source settings*
 3. 📅 Use the **Date Range** slicer and click visuals to cross-filter
 4. 🧭 Use the top-right buttons to move between pages
@@ -278,11 +278,8 @@ git clone https://github.com/your-username/smart-road-safety-dashboard.git
 
 <div align="center">
 
-**[Your Name]**
+**[DIVYESH SANDEEP KAMBLE]**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
 
 ⭐ *If you found this project useful, give it a star!* ⭐
 
