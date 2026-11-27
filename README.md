@@ -186,6 +186,7 @@ High-level KPIs and trends with a 📅 **Date Range** slicer.
 
 ### 💡 Page 4: Key Insights & Recommendations
 Project summary, findings, recommendations and conclusion.
+<div align="center"><img src="images/04-insights.png" width="90%" alt="Key Insights"/></div>
 
 ### 🙏 Page 5: Thank You
 Closing page: *"Road Pe Dhyan, Ghar Pe Muskaan!"*
